@@ -1,1 +1,5 @@
 nats-py
+fastapi 
+uvicorn 
+websockets
+fastapi-cors

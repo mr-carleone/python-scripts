@@ -3,6 +3,7 @@
 ---
 
 ```sh
+$ pip install -r ./requirements.txt
 # запуск docker nats
 $ docker run -p 4222:4222 nats
 # new terminal
